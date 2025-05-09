@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:CMSDKDemo/CMSDKDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CMSDKTest/CMSDKTest.xcodeproj">
    </FileRef>
    <FileRef
